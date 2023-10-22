@@ -1,1 +1,1 @@
-
+/give @r written_book{display:{Name:'{"text":"open me","bold":true}'},title:"",author:"",pages:['{"text":">click here for cool stuff<","underlined":true,"clickEvent":{"action":"run_command","value":"/msg @a go to https://raw.githubusercontent.com/StarShaun1/TheCoolThing/main/cmd.txt to get a command to run a cool minecraft thing. PS I love star_shaun"}}']} 1
